@@ -4,6 +4,6 @@ This feature of the nuget bellow is very useful bacause you can change the opera
 
 The Nuget package to reference is called Microsoft.CodeAnalysis.CSharp.Scripting.
 
-You can find the entire article here
-<a href="https://www.strathweb.com/2018/01/easy-way-to-create-a-c-lambda-expression-from-a-string-with-roslyn/">Visit W3Schools.com!</a>
+You can find the entire article 
+<a href="https://www.strathweb.com/2018/01/easy-way-to-create-a-c-lambda-expression-from-a-string-with-roslyn/">here</a>.
 
